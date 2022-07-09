@@ -1,0 +1,30 @@
+.col-md{
+    flex-basis: 31%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+    overflow: hidden;
+}
+.col-md img{
+    width: 100%;
+    display: block;
+    height: 594px;
+    border-radius: 0.8rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+
+}
+.card h1{
+    color: #FAEBD7;
+    font-family:  'Noto Serif SC', serif;
+    margin-bottom: 1rem;
+}
+.ziti{
+    font-size: 13px;
+    color: white;
+}
+.my img{
+    width: 2.5rem;
+margin-left: .4rem;
+margin-right: 1.9rem;
+border-radius: 50%;
+}
